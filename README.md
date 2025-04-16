@@ -27,7 +27,6 @@ Proyecto desarrollado como parte del programa Backend Dianjo impulsado por IBM S
 - python-dotenv (para la gestión de variables de entorno)
 - mysql-connector-python (para la conexión a la base de datos MySQL)
 
----
 ## ▶️ Ejecución
 
 La aplicación estará disponible en http://127.0.0.1:5000/
@@ -56,13 +55,13 @@ sistema-gestion-inventario/
     ├── editar.html
     ├── buscar.html
     └── resultados_busqueda.html
+```
 
-
-## 📜 Licencia
+## 📜 Licencia  
 Este proyecto está bajo la licencia MIT.
 
-## 🧑‍💻 Autor
-**María José Rivas Cardona**
-Este sistema fue desarrollado como parte de un proyecto personal para la Formación Avanzada en Desarrollo Backend (Python, Flask, Django) (En curso) IBM SkillsBuild / Bejob.
+## 🧑‍💻 Autor  
+**María José Rivas Cardona**  
+Este sistema fue desarrollado como parte de un proyecto personal para la Formación Avanzada en Desarrollo Backend (Python, Flask, Django) *(En curso)* — IBM SkillsBuild / Bejob.
 
 

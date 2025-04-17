@@ -45,7 +45,7 @@ sistema-gestion-inventario/
 ├── app.py                  # Aplicación principal Flask
 ├── crear_bd.sql            # Script SQL para la base de datos
 ├── requirements.txt        # Lista de dependencias
-├── .env                    # Variables de entorno (¡No subir a Git!)
+├── .env                    # Variables de entorno
 ├── README.md               # Este archivo
 │
 └── templates/              # Plantillas HTML (Jinja2)
